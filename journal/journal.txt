@@ -1,0 +1,22 @@
+AI Usage Journal
+Scott Dempwolf
+dempy@umd.edu
+Section 0201
+Week 1
+This week I used AI while working on the exercises to explain certain python
+concepts and to provide coding examples for python concepts including f-strings,
+for example. I did not use AI to complete any of the exercises. I did not use AI
+for debugging. Here are my AI chat links. https://chatgpt.com/share/68bdbf24-0104-
+8010-a4f3-e3077a4692cd
+My project team also used AI to help organize our project ideas and translate them
+into project requirements that we used to draft the project charter. [link to chat]
+I tried out Gemini AI this week and did not have a good experience. [Add whatever
+details you want that are useful to you]
+I ran a comparison test using the same documents and prompts between Claude,
+ChatGPT, and Gemini. They gave me pretty different results even using the same
+prompts. I used a separate instance of Claude to help design, analyze, and fine
+tune the test. In the end, we optimized the prompt and documents for ChatGPT and
+were able to dial-in results that were close to our expected targets. I learned a
+lot about why different AI models return such different results on the same
+prompts. Turns out that its about biases in their analytic models, not unlike
+people.
