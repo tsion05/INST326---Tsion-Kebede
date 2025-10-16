@@ -18,16 +18,24 @@ I also used ChatGPT to help me understand some of the coding problems in the Wee
 I don't have a link to it because I wasn't logged in when using ChatGPT. 
 
 Week 3
-This week, I used AI for personal reasons. I didn't use it for assignments. My face has been breaking out recently so 
+This week, I used AI for personal reasons. I and for the Week 3 Exercises. My face has been breaking out recently so 
 I asked ChatGPT to develop a skincare routine for me to use. I'm going to start using this routine on monday and see 
 if my acne starts to clear up. 
 Here is the link: https://chatgpt.com/share/68da2e56-4304-8011-879f-4022bb54b65a 
 I also recently bought laundry sanitizer and was a little confused on how to use it. I asked ChatGPT for help 
 because I felt like Google wasn't giving me the answer I was looking for. But, ChatGPT definitely helped. 
 Here is the link: https://chatgpt.com/share/68da2efd-15f0-8011-b2af-2ab251b8d98d 
+The Week 3 Exercises were kind of hard for me and I did ask ChatGPT to help me understand what the questions were asking and
+to explain some code. I wasn't logged in when this happened so I don't have a link. 
 
 Week 4
 This week, I asked AI to try and develop a workout routine for me. I turn 20 in less then a month 
 and I want to start focusing on my health. I liked that ChatGPT was able to give me a whole routine 
 to follow because I'm new to the gym and I don't know what to do. 
 Here is the link: https://chatgpt.com/share/68e53ef9-939c-8001-83bc-dd0009bc4b0e 
+
+Week 5
+This week I asked ChatGPT to help me understand Project 1 for this class. I didn't understand how 
+to use Github the way the assignment wanted us to. So, one of my groupmates told me to put her 
+instructions into ChatGPT and it would walk me though it. And it did! 
+Heres the link: https://chatgpt.com/share/68f110f5-8f34-8001-829b-202639b1bb43 
