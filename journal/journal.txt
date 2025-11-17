@@ -44,3 +44,19 @@ Week 6
 This week I used AI to help with the weekly excersies and Project 1. I used it to help debug code 
 and to help me understand how to do certain problems. I also used an add on called cursor VSCode 
 offered to assist me with coding but I made sure to understand everything it was generating. 
+
+Week 7
+This week I used AI to help with the weekly excersies. During lecture you said we should use AI to 
+help with the problems. I used it to help debug code and to help me understand how to do certain problems.
+I also used an add on called cursor VSCode offered to assist me with coding but I made sure to understand 
+everything it was generating. 
+
+Week 8
+This week I used AI to help with the weekly excersies. I used it to help debug code and to help me 
+understand how to do certain problems. I also used an add on called cursor VSCode offered to assist 
+me with coding but I made sure to understand everything it was generating. 
+
+Week 9
+This week I used AI to help with the weekly excersies. I used it to help debug code and to help me 
+understand how to do certain problems. I also used an add on called cursor VSCode offered to assist 
+me with coding but I made sure to understand everything it was generating. 
