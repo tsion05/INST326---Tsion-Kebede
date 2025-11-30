@@ -60,3 +60,7 @@ Week 9
 This week I used AI to help with the weekly excersies. I used it to help debug code and to help me 
 understand how to do certain problems. I also used an add on called cursor VSCode offered to assist 
 me with coding but I made sure to understand everything it was generating. 
+
+Week 10
+This week I used cursor VSCode to help me with the weekly excersies and Project 3. I also used ChatGPT to 
+help me understand the problems because I was very stuck on them.  
