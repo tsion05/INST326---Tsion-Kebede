@@ -43,22 +43,25 @@ Heres the link: https://chatgpt.com/share/68f110f5-8f34-8001-829b-202639b1bb43
 Week 6
 This week I used AI to help with the weekly excersies and Project 1. I used it to help debug code 
 and to help me understand how to do certain problems. I also used an add on called cursor VSCode 
-offered to assist me with coding but I made sure to understand everything it was generating. 
+which assists me with coding but I made sure to understand everything it was generating. 
 
 Week 7
 This week I used AI to help with the weekly excersies. During lecture you said we should use AI to 
 help with the problems. I used it to help debug code and to help me understand how to do certain problems.
-I also used an add on called cursor VSCode offered to assist me with coding but I made sure to understand 
+I also used an add on called cursor VSCode which assists me with coding but I made sure to understand 
 everything it was generating. 
 
 Week 8
 This week I used AI to help with the weekly excersies. I used it to help debug code and to help me 
-understand how to do certain problems. I also used an add on called cursor VSCode offered to assist 
-me with coding but I made sure to understand everything it was generating. 
+understand how to do certain problems. I also used an add on called cursor VSCode which assists me 
+me with coding but I made sure to understand everything it was generating. I also used AI to help me 
+submit another coding assignment for a different class. I was having trouble understanding how to submit 
+the assignment the way the professor wanted us to. 
+Here is the link: https://chatgpt.com/share/692be279-e158-8001-8a5d-f8464231a726  
 
 Week 9
 This week I used AI to help with the weekly excersies. I used it to help debug code and to help me 
-understand how to do certain problems. I also used an add on called cursor VSCode offered to assist 
+understand how to do certain problems. I also used an add on called cursor VSCode which assists me 
 me with coding but I made sure to understand everything it was generating. 
 
 Week 10
