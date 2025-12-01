@@ -39,31 +39,39 @@ This week I asked ChatGPT to help me understand Project 1 for this class. I didn
 to use Github the way the assignment wanted us to. So, one of my groupmates told me to put her 
 instructions into ChatGPT and it would walk me though it. And it did! 
 Heres the link: https://chatgpt.com/share/68f110f5-8f34-8001-829b-202639b1bb43 
+I also used ChatGPT to help me with excersie 5. I didn't understand most of the problems so I would ask
+questions about it. I wasn't logged in each time I asked questions but sometimes I was. 
+Here is the link: https://chatgpt.com/share/692d09f9-36a4-8001-bdf6-adab4dcbe252
 
 Week 6
-This week I used AI to help with the weekly excersies and Project 1. I used it to help debug code 
-and to help me understand how to do certain problems. I also used an add on called cursor VSCode 
-which assists me with coding but I made sure to understand everything it was generating. 
+This week I used AI to help with the weekly excersies and Project 1. First I used an add on called 
+cursor VSCode which assists me with coding and then I asked ChatGPT to explain the code I didn't understand.
+I wanted to make sure to understand everything it was generating. 
+Here is the link: https://chatgpt.com/share/692d127d-b3b0-8001-a70d-831c553e2be6
 
 Week 7
 This week I used AI to help with the weekly excersies. During lecture you said we should use AI to 
-help with the problems. I used it to help debug code and to help me understand how to do certain problems.
-I also used an add on called cursor VSCode which assists me with coding but I made sure to understand 
-everything it was generating. 
+help with the problems. I used cursor VSCode to help me with my coding and then I used ChatGPT to explain
+the code I didn't understand. I made sure to understand everything I was coding. 
+Here is the link: https://chatgpt.com/share/692d239b-45f8-8001-835d-39fb0dfaa68f
 
 Week 8
-This week I used AI to help with the weekly excersies. I used it to help debug code and to help me 
-understand how to do certain problems. I also used an add on called cursor VSCode which assists me 
-me with coding but I made sure to understand everything it was generating. I also used AI to help me 
-submit another coding assignment for a different class. I was having trouble understanding how to submit 
-the assignment the way the professor wanted us to. 
+This week I used AI to help with the weekly excersies. I used cursor VSCode to help me with my coding 
+and then I used ChatGPT to explain the code I didn't understand. I made sure to understand everything 
+I was coding. 
+Here is the link: https://chatgpt.com/share/692d5380-cd78-8001-90c8-e744339cccee
+I also used AI to help me submit another coding assignment for a different class. I was having trouble 
+understanding how to submit the assignment the way the professor wanted us to. 
 Here is the link: https://chatgpt.com/share/692be279-e158-8001-8a5d-f8464231a726  
 
 Week 9
-This week I used AI to help with the weekly excersies. I used it to help debug code and to help me 
-understand how to do certain problems. I also used an add on called cursor VSCode which assists me 
-me with coding but I made sure to understand everything it was generating. 
+This week I used AI to help with the weekly excersies. I used cursor VSCode to help me with my coding and 
+then I used ChatGPT to explain the code I didn't understand. I made sure to understand everything I was 
+coding. 
+Here is the link: https://chatgpt.com/share/692d5585-1834-8001-aa7b-e5c36190bcd2
 
 Week 10
-This week I used cursor VSCode to help me with the weekly excersies and Project 3. I also used ChatGPT to 
-help me understand the problems because I was very stuck on them.  
+This week I used AI to help with the weekly excersies and Project 3. I used cursor VSCode to help me with my 
+coding and then I used ChatGPT to explain the code I didn't understand. I made sure to understand everything 
+I was coding. 
+Here is the link: https://chatgpt.com/share/692d56fe-60c8-8001-b8f7-d2529a100b07
