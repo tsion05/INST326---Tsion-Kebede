@@ -75,3 +75,8 @@ This week I used AI to help with the weekly excersies and Project 3. I used curs
 coding and then I used ChatGPT to explain the code I didn't understand. I made sure to understand everything 
 I was coding. 
 Here is the link: https://chatgpt.com/share/692d56fe-60c8-8001-b8f7-d2529a100b07
+
+Week 12
+This week I used AI to help me understand the difference between a payoff quote and remaining balance for my car. 
+I didn't understand the difference and google wasn't helping me understand the situation.
+Here is the link: https://chatgpt.com/share/693623b6-66d0-8001-bfb8-8f65d2eeb2b7
