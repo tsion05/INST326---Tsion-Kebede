@@ -80,3 +80,7 @@ Week 12
 This week I used AI to help me understand the difference between a payoff quote and remaining balance for my car. 
 I didn't understand the difference and google wasn't helping me understand the situation.
 Here is the link: https://chatgpt.com/share/693623b6-66d0-8001-bfb8-8f65d2eeb2b7
+
+Week 13
+This week I used AI to help me finish Project 4. I used cursor VSCode to help me with my coding and then I used ChatGPT 
+to explain the code I didn't understand. 
